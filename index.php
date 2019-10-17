@@ -1,5 +1,6 @@
 <?php
- 
+ require('../vendor/autoload.php');
+
 //checking submit clicked or not
 if(isset($_POST['login'])){
     
